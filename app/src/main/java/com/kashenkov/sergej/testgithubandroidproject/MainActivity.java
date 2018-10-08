@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //test
         Toast.makeText(this,"GUD",Toast.LENGTH_SHORT).show();
+        //go home out Nevskay
     }
 }
